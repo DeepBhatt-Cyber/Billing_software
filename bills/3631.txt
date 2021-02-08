@@ -1,0 +1,18 @@
+	    Welcome Bhavani Store
+
+ Bill Number      :3631          2020/09/08
+ Customer Name    :wdsh
+ Customer Number  :852963741
+============================================
+ Products Name		      QTY  		    Price
+============================================
+ Rice			6          	390
+--------------------------------------------
+ Grocery Tax:				Rs. 19.5
+--------------------------------------------
+ Total Bill				Rs. 409.5
+============================================
+				   Thank you
+ Notes:-
+*Please check product before purchase
+*No returns No Exchanges

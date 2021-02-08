@@ -1,0 +1,23 @@
+	    Welcome Bhavani Store
+
+ Bill Number      :7836          2021/01/21
+ Customer Name    :Prashant
+ Customer Number  :7456893210
+============================================
+ Products Name		      QTY  		    Price
+============================================
+ Perfume			1          	225
+ Coca-Cola			5          	175
+ Red Bull			2          	240
+ Milk			3          	84
+--------------------------------------------
+ Cosmatic Tax:				Rs. 54.0
+ Cold Drink Tax:				Rs. 74.7
+ Grocery Tax:				Rs. 4.2
+--------------------------------------------
+ Total Bill				Rs. 856.9
+============================================
+				   Thank you
+ Notes:-
+*Please check product before purchase
+*No returns No Exchanges

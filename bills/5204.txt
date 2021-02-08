@@ -1,0 +1,24 @@
+	    Welcome Bhavani Store
+
+ Bill Number      :5204          2020/07/23
+ Customer Name    :aksh
+ Customer Number  :8833250365
+============================================
+ Products Name		      QTY  		    Price
+============================================
+ Face Powder			5          	925
+ Coca-Cola			2          	70
+ Rice			5          	325
+ Oil			5          	425
+ Masala			1          	250
+--------------------------------------------
+ Cosmatic Tax:				Rs. 222.0
+ Cold Drink Tax:				Rs. 12.6
+ Grocery Tax:				Rs. 50.0
+--------------------------------------------
+ Total Bill				Rs. 2279.6
+============================================
+				   Thank you
+ Notes:-
+*Please check product before purchase
+*No returns No Exchanges

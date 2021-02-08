@@ -1,0 +1,18 @@
+	    Welcome Bhavani Store
+
+ Bill Number      :3751          2021/01/20
+ Customer Name    :Nanu
+ Customer Number  :7485963210
+============================================
+ Products Name		      QTY  		    Price
+============================================
+ Pepper Soda			2          	60
+--------------------------------------------
+ Cold Drink Tax:				Rs. 10.8
+--------------------------------------------
+ Total Bill				Rs. 70.8
+============================================
+				   Thank you
+ Notes:-
+*Please check product before purchase
+*No returns No Exchanges

@@ -1,0 +1,18 @@
+	    Welcome Bhavani Store
+
+ Bill Number      :1444          2021/01/21
+ Customer Name    :Pinka
+ Customer Number  :8523697410
+============================================
+ Products Name		      QTY  		    Price
+============================================
+ Makeup Kits			2          	750
+--------------------------------------------
+ Cosmatic Tax:				Rs. 180.0
+--------------------------------------------
+ Total Bill				Rs. 930.0
+============================================
+				   Thank you
+ Notes:-
+*Please check product before purchase
+*No returns No Exchanges

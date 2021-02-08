@@ -1,0 +1,24 @@
+	    Welcome Bhavani Store
+
+ Bill Number      :2524          2021/01/21
+ Customer Name    :Deep
+ Customer Number  :7412589630
+============================================
+ Products Name		      QTY  		    Price
+============================================
+ Makeup Kits			5          	1875
+ Sprite			2          	70
+ Rice			8          	520
+ Oil			5          	425
+ Wheat			5          	125
+--------------------------------------------
+ Cosmatic Tax:				Rs. 450.0
+ Cold Drink Tax:				Rs. 12.6
+ Grocery Tax:				Rs. 53.5
+--------------------------------------------
+ Total Bill				Rs. 3531.1
+============================================
+				   Thank you
+ Notes:-
+*Please check product before purchase
+*No returns No Exchanges

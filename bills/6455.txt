@@ -1,0 +1,18 @@
+	    Welcome Bhavani Store
+
+ Bill Number      :6455          2021/01/20
+ Customer Name    :Deep
+ Customer Number  :8796541283
+============================================
+ Products Name		      QTY  		    Price
+============================================
+ Milk			3          	84
+--------------------------------------------
+ Grocery Tax:				Rs. 4.2
+--------------------------------------------
+ Total Bill				Rs. 88.2
+============================================
+				   Thank you
+ Notes:-
+*Please check product before purchase
+*No returns No Exchanges

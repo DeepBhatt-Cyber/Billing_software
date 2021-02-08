@@ -1,0 +1,18 @@
+	    Welcome Bhavani Store
+
+ Bill Number      :7997
+ Customer Name    :dips
+ Customer Number  :8223671254
+============================================
+ Products Name		      QTY  		    Price
+============================================
+ Vodka			2          	900
+--------------------------------------------
+ Cold Drink Tax:				Rs. 162.0
+--------------------------------------------
+ Total Bill				Rs. 1062.0
+============================================
+				   Thank you
+ Notes:-
+*Please check product before purchase
+*No returns No Exchanges

@@ -1,0 +1,23 @@
+	    Welcome Bhavani Store
+
+ Bill Number      :2208          2021/01/20
+ Customer Name    :Deep
+ Customer Number  :8796541230
+============================================
+ Products Name		      QTY  		    Price
+============================================
+ Moisturizers			1          	120
+ Makeup Kits			2          	750
+ Coca-Cola			6          	210
+ Milk			2          	56
+--------------------------------------------
+ Cosmatic Tax:				Rs. 208.8
+ Cold Drink Tax:				Rs. 37.8
+ Grocery Tax:				Rs. 2.8
+--------------------------------------------
+ Total Bill				Rs. 1385.4
+============================================
+				   Thank you
+ Notes:-
+*Please check product before purchase
+*No returns No Exchanges

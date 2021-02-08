@@ -1,0 +1,18 @@
+	    Welcome Bhavani Store
+
+ Bill Number      :5327          2021/01/20
+ Customer Name    :Papu
+ Customer Number  :8741259630
+============================================
+ Products Name		      QTY  		    Price
+============================================
+ Wheat			5          	125
+--------------------------------------------
+ Grocery Tax:				Rs. 6.25
+--------------------------------------------
+ Total Bill				Rs. 131.25
+============================================
+				   Thank you
+ Notes:-
+*Please check product before purchase
+*No returns No Exchanges

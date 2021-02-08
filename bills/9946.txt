@@ -1,0 +1,18 @@
+	    Welcome Bhavani Store
+
+ Bill Number      :9946          2021/01/20
+ Customer Name    :kk
+ Customer Number  :7418529630
+============================================
+ Products Name		      QTY  		    Price
+============================================
+ Masala			1          	250
+--------------------------------------------
+ Grocery Tax:				Rs. 12.5
+--------------------------------------------
+ Total Bill				Rs. 262.5
+============================================
+				   Thank you
+ Notes:-
+*Please check product before purchase
+*No returns No Exchanges

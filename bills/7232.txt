@@ -1,0 +1,18 @@
+	    Welcome Bhavani Store
+
+ Bill Number      :7232          2021/01/21
+ Customer Name    :Bapu
+ Customer Number  :7418596320
+============================================
+ Products Name		      QTY  		    Price
+============================================
+ Oil			1          	85
+--------------------------------------------
+ Grocery Tax:				Rs. 4.25
+--------------------------------------------
+ Total Bill				Rs. 89.25
+============================================
+				   Thank you
+ Notes:-
+*Please check product before purchase
+*No returns No Exchanges

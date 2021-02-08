@@ -1,0 +1,18 @@
+	    Welcome Bhavani Store
+
+ Bill Number      :1129          2021/01/21
+ Customer Name    :nanu
+ Customer Number  :8741529630
+============================================
+ Products Name		      QTY  		    Price
+============================================
+ Moisturizers			2          	240
+--------------------------------------------
+ Cosmatic Tax:				Rs. 57.6
+--------------------------------------------
+ Total Bill				Rs. 297.6
+============================================
+				   Thank you
+ Notes:-
+*Please check product before purchase
+*No returns No Exchanges

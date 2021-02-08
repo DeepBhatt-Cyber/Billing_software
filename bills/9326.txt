@@ -1,0 +1,19 @@
+	    Welcome Bhavani Store
+
+ Bill Number      :9326          2020/07/23
+ Customer Name    :tesy
+ Customer Number  :8693254125
+============================================
+ Products Name		      QTY  		    Price
+============================================
+ Coca-Cola			2          	70
+ Vodka			1          	450
+--------------------------------------------
+ Cold Drink Tax:				Rs. 93.6
+--------------------------------------------
+ Total Bill				Rs. 613.6
+============================================
+				   Thank you
+ Notes:-
+*Please check product before purchase
+*No returns No Exchanges

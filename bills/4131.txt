@@ -1,0 +1,18 @@
+	    Welcome Bhavani Store
+
+ Bill Number      :4131          2021/01/21
+ Customer Name    :Deep
+ Customer Number  :8745963210
+============================================
+ Products Name		      QTY  		    Price
+============================================
+ Face Powder			2          	370
+--------------------------------------------
+ Cosmatic Tax:				Rs. 88.8
+--------------------------------------------
+ Total Bill				Rs. 458.8
+============================================
+				   Thank you
+ Notes:-
+*Please check product before purchase
+*No returns No Exchanges

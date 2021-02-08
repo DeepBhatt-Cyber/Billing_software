@@ -1,0 +1,18 @@
+	    Welcome Bhavani Store
+
+ Bill Number      :8179          2021/01/20
+ Customer Name    :Deep012
+ Customer Number  :8741256930
+============================================
+ Products Name		      QTY  		    Price
+============================================
+ Rice			5          	325
+--------------------------------------------
+ Grocery Tax:				Rs. 16.25
+--------------------------------------------
+ Total Bill				Rs. 341.25
+============================================
+				   Thank you
+ Notes:-
+*Please check product before purchase
+*No returns No Exchanges

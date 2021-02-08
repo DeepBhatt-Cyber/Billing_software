@@ -1,0 +1,18 @@
+	    Welcome Bhavani Store
+
+ Bill Number      :2608          2021/01/21
+ Customer Name    :Vaibhav
+ Customer Number  :9173720185
+============================================
+ Products Name		      QTY  		    Price
+============================================
+ Vodka			1          	450
+--------------------------------------------
+ Cold Drink Tax:				Rs. 81.0
+--------------------------------------------
+ Total Bill				Rs. 531.0
+============================================
+				   Thank you
+ Notes:-
+*Please check product before purchase
+*No returns No Exchanges
